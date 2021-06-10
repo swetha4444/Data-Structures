@@ -7,6 +7,7 @@ Data Structures Programming Problems solved during my college course. <br>
   <li>Searching and Sorting Algorithms</li>
   <li>Trees</li>
   <li>Graph Traversal Algorithms</li>
+  <li>Hashing Algorithms</li>
 </ol>
   
   
